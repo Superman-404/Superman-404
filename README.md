@@ -17,7 +17,7 @@ To become a Python full-stack developer
 - ⚡ Fun fact: ...
 - 
 -->
-🧰 My Power Tools
+🧰 **技术栈**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -25,7 +25,7 @@ To become a Python full-stack developer
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-📫 How to reach me: 
+📫 **联系方式**
 
 Email: 316243817@qq.com
 
