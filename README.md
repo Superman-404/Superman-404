@@ -1,12 +1,15 @@
-<img align="left" src="./man.svg" width="120" style="margin-right: 20px; border-radius: 50%;" />
-
 ## Hi there 👋 I'm Superman-404.
 
-- 🎓 A student majoring in Data Science and Big Data, building foundation in Python & AI.
-- 👁️ Aiming to step into **Computer Vision** and become a **Python full-stack developer**.
-- 📚 Preparing for the graduate program at the School of Software Engineering, Fudan University.
+<img align="left" src="man.svg" width=130>
 
-<br clear="left" />
+A student majoring in **Data Science and Big Data**, currently building a solid foundation in **Python, and AI tools**. Hope:
+  - To step into the field of **Computer Vision**
+  - To become a **Python full-stack developer**
+
+---
+
+### 🔭 What I’m working on
+- Preparing for the graduate program at the **School of Software Engineering, Fudan University**
 
 ---
 
