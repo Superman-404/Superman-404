@@ -1,6 +1,6 @@
 ## Hi 你好! 👋 我是 Superman-404.
 
-<img align="left" src="Superman.png" width=130>
+<img align="left" src="Superman.svg" width=130>
 
 我是一名主修数据科学和大数据的学生，目前正在打好 Python 和 AI 工具的坚实基础。希望：
   - 踏入**计算机视觉**领域
