@@ -18,8 +18,16 @@ To become a Python full-stack developer
 - 
 -->
 🧰 My Power Tools
-Python FastAPI Java MySQL SQLServer Git Shell OpenCV OCR Yolo MachineLearning
-📫 How to reach me: Email: 316243817@qq.com
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+📫 How to reach me: 
+
+Email: 316243817@qq.com
 
 
 
