@@ -23,7 +23,7 @@ A student majoring in **Data Science and Big Data**, currently building a solid 
 
 📫 **联系方式**
 
-Email: 
+![WeChat](https://img.shields.io/badge/WeChat-07C160?style=social&logo=wechat&label=CNWM66)
 
 
 
