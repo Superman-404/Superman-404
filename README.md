@@ -27,7 +27,7 @@ To become a Python full-stack developer
 
 📫 **联系方式**
 
-Email: 316243817@qq.com
+Email: 
 
 
 
