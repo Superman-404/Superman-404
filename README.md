@@ -1,4 +1,4 @@
-<img align="left" src="./images/man.svg" width="120" style="margin-right: 20px; border-radius: 50%;" />
+<img align="left" src="./man.svg" width="120" style="margin-right: 20px; border-radius: 50%;" />
 
 ## Hi there 👋 I'm Superman-404.
 
