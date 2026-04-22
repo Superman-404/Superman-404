@@ -2,14 +2,14 @@
 
 <img align="left" src="man.svg" width=130>
 
-A student majoring in **Data Science and Big Data**, currently building a solid foundation in **Python, and AI tools**. Hope:
-  - To step into the field of **Computer Vision**
-  - To become a **Python full-stack developer**
+我是一名主修数据科学和大数据的学生，目前正在打好 Python 和 AI 工具的坚实基础。希望：
+  - 踏入**计算机视觉**领域
+  - 成为一名 **Python 全栈开发者**
 
 ---
 
 ### 🔭 **我正在做的事**
-- Preparing for the graduate program at the **School of Software Engineering, Fudan University**
+- 为**复旦大学软件工程学院的研究生项目**做准备
 
 ---
 
