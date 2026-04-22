@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Superman-404.
+## Hi 你好! 👋 我是 Superman-404.
 
 <img align="left" src="man.svg" width=130>
 
@@ -8,7 +8,7 @@ A student majoring in **Data Science and Big Data**, currently building a solid 
 
 ---
 
-### 🔭 What I’m working on
+### 🔭 **我正在做的事**
 - Preparing for the graduate program at the **School of Software Engineering, Fudan University**
 
 ---
