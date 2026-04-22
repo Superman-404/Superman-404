@@ -15,9 +15,10 @@ To become a Python full-stack developer
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🧰 My Power Tools
-Python FastAPI Java MySQL SQLServer Git Shell OpenCV OCR Yolo MachineLearning
+- 
 -->
+🧰 My Power Tools
+Python FastAPI Java MySQL SQLServer Git Shell OpenCV OCR Yolo MachineLearning
 📫 How to reach me: Email: 316243817@qq.com
 
 
