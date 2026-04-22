@@ -1,22 +1,15 @@
+<img align="left" src="./images/man.svg" width="120" style="margin-right: 20px; border-radius: 50%;" />
+
 ## Hi there 👋 I'm Superman-404.
 
-<!--
-**Superman-404/Superman-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 A student majoring in Data Science and Big Data, building foundation in Python & AI.
+- 👁️ Aiming to step into **Computer Vision** and become a **Python full-stack developer**.
+- 📚 Preparing for the graduate program at the School of Software Engineering, Fudan University.
 
-Here are some ideas to get you started:
-To step into the field of Computer Vision
-A student majoring in Data Science and Big Data, currently building a solid foundation in Python, and AI tools. Hope:
-To become a Python full-stack developer
-- 🔭 I’m currently working on Preparing for the graduate program at the School of Software Engineering, Fudan University
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
--->
+<br clear="left" />
+
+---
+
 🧰 **技术栈**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
