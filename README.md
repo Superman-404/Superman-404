@@ -8,8 +8,8 @@
 
 
 
-### 🔭 ***我正在做的事***
--  📚 *学习* <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" style="vertical-align: middle;">  
+### :computer: ***我正在做的事***
+- *学习* ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 - *开发自己的AI项目*
 
 
