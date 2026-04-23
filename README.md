@@ -1,4 +1,4 @@
-## *Hi 你好! 👋 我是 Superman-404.*
+## *👋 你好 ! 我是 Superman-404*
 
 <img align="left" src="超人.svg" width=90>
 
@@ -10,7 +10,7 @@
 
 ### 🔭 ***我正在做的事***
 -  📚 *学习* <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" style="vertical-align: middle;">  
-- *开发自己的项目*
+- *开发自己的AI项目*
 
 
 
