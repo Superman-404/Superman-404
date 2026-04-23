@@ -8,13 +8,13 @@
 
 
 
-### 🔭 **我正在做的事**
+### 🔭 ***我正在做的事***
 -  📚 *学习* <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" style="vertical-align: middle;">  
 - *开发自己的项目*
 
 
 
-### 🧰 **技术栈**
+### 🧰 ***技术栈***
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,7 +23,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📫 **联系方式**
+### 📫 ***联系方式***
 
 ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=social&logo=wechat&label=CNWM66)
 
