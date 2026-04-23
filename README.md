@@ -1,21 +1,22 @@
-## Hi 你好! 👋 我是 Superman-404.
+## *Hi 你好! 👋 我是 Superman-404.*
 
 <img align="left" src="超人.svg" width=90>
 
-我是一名人工智能应用开发的程序员，目前正在打好 Python 和 AI 工具的坚实基础。希望：
-  - 踏入**人工智能**领域
-  - 成为一名 **Python 全栈开发者**
+*我是一名人工智能应用开发的程序员，目前正在打好 Python 和 AI 工具的坚实基础。希望：*
+  - *踏入**人工智能**领域*
+  - *成为一名 **Python 全栈开发者***
 
 
 
 ### 🔭 **我正在做的事**
-- 学习**Langchain**架构
-- 为**开发自己的项目**做准备
+-  📚 *学习* <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" style="vertical-align: middle;">  
+- *开发自己的项目*
 
 
 
 ### 🧰 **技术栈**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
